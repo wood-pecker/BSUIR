@@ -1,4 +1,4 @@
-// Лаба не моя. Я её переделал под себя
+
 #include <iostream>
 #include <conio.h>
 #include <fstream>
